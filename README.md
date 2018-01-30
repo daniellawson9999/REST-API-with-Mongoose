@@ -1,4 +1,4 @@
-<1h>A RESTful API that uses mongoose.</h1>
+<h1>A RESTful API that uses mongoose.</h1>
 
 To test this API, clone repository, run npm install, run npm start or node app.
 
